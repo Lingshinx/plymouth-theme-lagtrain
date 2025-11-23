@@ -34,7 +34,7 @@ with lib;
         I just very like this MV as plymouth theme
         please don't kill me
       '';
-      license = license.gpl3;
+      license = licenses.gpl3;
       platforms = platforms.linux;
     };
   }
