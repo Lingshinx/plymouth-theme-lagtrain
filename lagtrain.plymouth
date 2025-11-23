@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=lagtrain
+Description=Lagtrain
+Comment=created By Lingshin
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lagtrain
+ScriptFile=/usr/share/plymouth/themes/lagtrain/lagtrain.script
